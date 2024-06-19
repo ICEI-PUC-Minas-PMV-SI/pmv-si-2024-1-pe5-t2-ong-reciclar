@@ -6,7 +6,11 @@
 
 `Eixo: 5`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Neste projeto  o grupo optou por escolher o Instituto Reciclar (https://reciclar.org.br/), Organização Não Governamental cujo foco é a formação profissional e inclusão social de jovens em situação de vulnerabilidade. A atuação da organização reflete uma escolha estratégica alinhada com sua missão de promover o desenvolvimento sustentável e a transformação social. Ao trabalhar nesse sentido, o instituto reconhece os desafios e responsabilidades específicos associados à sua missão e à sua escala de atuação. 
+
+  
+
+O Instituto Reciclar necessita de uma estrutura organizacional complexa, exigindo uma abordagem organizada e interconectada para atingir seus objetivos. 
 
 ## Integrantes
 
