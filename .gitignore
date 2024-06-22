@@ -1,15 +1,10 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
-
-/BackEnd/Application/bin
-/BackEnd/Application/obj
-/BackEnd/Domain/bin
-
-# Ignora todas as pastas bin
 **/bin/
 
-# Ignora todas as pastas obj
 **/obj/
 
 **.vsidx
+
+**.vs
