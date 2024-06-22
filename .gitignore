@@ -5,3 +5,11 @@
 /BackEnd/Application/bin
 /BackEnd/Application/obj
 /BackEnd/Domain/bin
+
+# Ignora todas as pastas bin
+**/bin/
+
+# Ignora todas as pastas obj
+**/obj/
+
+**.vsidx
